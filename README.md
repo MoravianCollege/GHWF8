@@ -6,7 +6,7 @@ Practice space for using the Github Workflow.
 Participants:
 Ben Coleman
 Jacob Smith
-
+Isaac Wood
 
 ## Setup
 
