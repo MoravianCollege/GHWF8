@@ -5,3 +5,4 @@ def compute_hw_average(grades):
     return grades[0]
 
 print('Hello Max I am Michael')
+print('Hello Michael I am not Max')
