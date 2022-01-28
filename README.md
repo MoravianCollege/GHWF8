@@ -4,9 +4,9 @@
 Practice space for using the Github Workflow.
 
 Participants:
-Ben Coleman
-Michael Marchese
-Maxwell Schuman
+Dr. Ben Coleman
+Dr. Michael Marchese
+Dr. Maxwell Schuman
 
 
 ## Setup
